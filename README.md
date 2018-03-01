@@ -1,3 +1,6 @@
+run with:
+    npm start
+
 # Busbud Coding Challenge
 
 Adapted from a real coding challenge from a tech startup: [Busbud Backend Coding Challenge](https://github.com/busbud/coding-challenge-backend-c)
