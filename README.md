@@ -11,9 +11,9 @@ Adapted from a real coding challenge from a tech startup: [Busbud Backend Coding
     - each suggestion has a latitude and longitude
 - the caller's location can optionally be supplied via querystring parameters `latitude` and `longitude` to help improve relative scores
 
-#### Sample responses
+### Sample responses
 
-**Near match**
+#### Near match
 
     name: Londo
     latitude: 43.70011
@@ -49,7 +49,7 @@ Adapted from a real coding challenge from a tech startup: [Busbud Backend Coding
 }
 ```
 
-**No match**
+#### No match
 
     name: SomeRandomCityInTheMiddleOfNowhere
 
